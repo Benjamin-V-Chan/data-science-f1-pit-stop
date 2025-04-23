@@ -24,3 +24,28 @@ project-root/
 └── README.md                        # Project documentation (this file)
 ```
 
+## Usage
+
+1. **Setup the Project:**
+   - Clone the repository.
+   - Ensure you have Python installed.
+   - Install required dependencies using the requirements.txt file.
+     ```bash
+     pip install -r requirements.txt
+     ```
+2. **Run Data Preprocessing:**
+   ```bash
+   python scripts/01_data_preprocessing.py
+   ```
+3. **Perform Exploratory Analysis:**
+   ```bash
+   python scripts/02_exploratory_analysis.py
+   ```
+4. **Train Predictive Models:**
+   ```bash
+   python scripts/03_modeling.py
+   ```
+5. **Execute Clustering Analysis:**
+   ```bash
+   python scripts/04_clustering.py
+   ```
