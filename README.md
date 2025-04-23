@@ -49,3 +49,21 @@ project-root/
    ```bash
    python scripts/04_clustering.py
    ```
+
+## Requirements
+
+- Python 3.7 or higher
+- pandas
+- numpy
+- matplotlib
+- seaborn
+- scikit-learn
+- joblib
+
+Install all dependencies via `requirements.txt`.
+
+## Acknowledgments
+
+**dataset name:** Formula 1 Pit Stop Dataset  
+**dataset author:** Akash Rane  
+**dataset source:** https://www.kaggle.com/datasets/akashrane2609/formula-1-pit-stop-dataset
